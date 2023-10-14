@@ -1,4 +1,3 @@
-# html-calculator
 
 # Hi Everyone  👋
 
@@ -9,17 +8,9 @@ I'm a learning software engineer from heart ❤️!
 
 # Calculator 
 
-its a simple astro build application where I just try to build a project which is working cross platform in this project i use react-js and solid-js working async with one another 
+its a simple build application where I just try to build a project to test out some fun tricks 
 
 
-
-
-## Install in your local machine
-Copy the repo and enjoy in your local machine 🤗
-
-and then
-npm Install
-for node module 
 
 
 ## 🛠 Skills
